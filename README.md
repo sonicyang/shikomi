@@ -1,4 +1,2 @@
 # shikomi
-# shikomi
-# shikomi
-# shikomi
+
